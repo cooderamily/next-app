@@ -47,7 +47,7 @@ An [**Next.js**](https://github.com/zeit/next.js/) and [**MongoDB**](https://www
 
 - [x] Profile picture, name, bio, email
 - [x] Update user profile
-- test
+
 </div>
 
 <h3 align="center">:eyes: Social</h3>
