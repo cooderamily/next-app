@@ -1,5 +1,6 @@
 require('dotenv').config();
 
+console.log(1111, process.env)
 module.exports = {
   env: {
     MONGODB_URI: process.env.MONGODB_URI,
